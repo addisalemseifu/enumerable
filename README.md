@@ -77,7 +77,7 @@ Clone this repository to your desired folder:
 
 
 ```sh
-  cd morse_code
+  cd enumerable
   git clone https://github.com/addisalemseifu/enumerable.git
 ```
 
